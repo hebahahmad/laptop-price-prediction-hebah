@@ -1,4 +1,10 @@
 Laptop Price Predictor
+
+
+There are many laptop manufacturers who are unwilling to share information about their products, so consumers are often unable to make accurate comparisons of prices. In this project, we propose to develop a machine learning-based laptop price predictor that can estimate the price of a laptop based on its specifications using machine learning techniques. Our approach is essentially the collection of data pertaining to laptop specifications and prices, followed by training a machine learning model to predict laptop prices based on these specifications. The following sections will explore machine learning algorithms, including linear regression, decision trees, and K neural networks. This is so we can determine which is the most accurate at predicting the future.
+We will evaluate our model's performance on a separate laptop specifications and prices dataset. We will compare the predicted prices with the actual prices to measure our predictions' accuracy. Finally, we will develop a web application that allows users to input laptop specifications and receive an estimated price based on our model.
+The significance of our project lies in the fact that it solves a common problem faced by consumers when shopping for laptops - the lack of transparency in pricing when comparing laptops and their options. As a result of developing a machine learning-based laptop price predictor, we empower consumers to make informed purchase decisions without relying solely on manufacturers' information.
+
 This is a machine learning project that predicts the price of a laptop based on its features. It uses a dataset of laptops from various brands and with various specifications to train a regression model that can predict the price of a laptop given its features.
 
 Installation
