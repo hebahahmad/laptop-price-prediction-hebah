@@ -31,3 +31,8 @@ CPU Name,
 HDD, 
 SSD,
 GPU brand.
+![image](https://user-images.githubusercontent.com/125111330/236100300-e9e4527f-0acc-4bd1-bced-c4fa3a41bfbd.png)
+
+
+
+this is the link https://laptop-price-prediction-hebah.herokuapp.com/
